@@ -1,0 +1,16 @@
+2
+Reducere la lumanari
+De la 2 lei lumanarea , avem acum  o reducere de 25% . Asta inseamna ca lumanarea o sa coste 1.5lei
+true
+3
+Septembrie overbooked
+Toata luna Septembrie este full. Nunti/inmormantari/botezuri nu mai avem loc.
+true
+4
+Gand bun
+Sanatate numai bine.
+false
+5
+Recomandare post.
+Pastele sunt de post. Va multumim.
+false

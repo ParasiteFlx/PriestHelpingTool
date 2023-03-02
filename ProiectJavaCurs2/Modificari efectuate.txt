@@ -1,0 +1,20 @@
+Paltenie Adrian - 27.01.2023 
+
+13:16
+
+- am adaugat constructori pentru orice situatie pentru clasele Enorias si Serviciu.
+- am modificat in clasele Enorias si Serviciu prescurtarile parametrilor atat in constructori cat si in settere.
+- am transformat data_ora in dataOra.
+
+14:01
+ 
+- am creat clasa Console cu o functie de print de baza.
+
+03.02.2023
+
+- am actualizat clasa Repository incat sa foloseasca Generics in loc de tipul Object.
+- am descarcat si adaugat clasa Service de pe google drive. 
+- am descarcat si adaugat AnuntService de pe google drive.
+- am rezolvat partea cu index-ul in clasele Enorias si Serviciu.
+- am modificat si primii constructori din Anunt si Slujba.
+
